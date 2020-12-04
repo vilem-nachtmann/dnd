@@ -1,0 +1,8 @@
+entity_name,
+lvl,
+hp,
+dmg,
+armor_class,
+speed,
+inventory[items],
+attributes
